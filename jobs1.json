@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/2504/2504914.png",
+		"job_title": "Technical Database Engineer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Google LLC",
+		"job_type": "Onsite",
+		"job_time": "Per Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Dhaka, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "100K-120K",
+		"quantity": 0,
+
+		"job_description": "The Technical Database Engineer is responsible for designing, implementing, and maintaining database systems that support the organization's applications, systems, and business processes. This role involves working with application developers, data analysts, and other IT professionals to ensure that database systems are efficient, reliable, and secure.",
+
+		"job_responsibility": "Design and implement database systems that meet the organization's requirements for performance, scalability, and availability. Develop and maintain database schemas, indexes, and other database objects. Monitor and optimize database performance using tools such as SQL Profiler and Perfmon. policies, auditing, and access controls.",
+
+		"educational_requirements": "Bachelor's degree in Computer Science, Information Systems, or a related field.",
+		"experiences": "5+ years of experience designing, implementing, and maintaining database systems in a production environment.",
+		"phone": "01701 01 45 87",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "googleinfo@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "29 Hazipara, Rampura",
+		"heading": "Job Details"
+	}
+]
