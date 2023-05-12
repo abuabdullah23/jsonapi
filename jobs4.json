@@ -1,0 +1,27 @@
+[
+	{
+		"id": 4,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/6124/6124998.png",
+		"job_title": "Google Software Engineer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Google LLC",
+		"job_type": "Remote",
+		"job_time": "Per Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Rajshahi, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "150K-200K",
+		"quantity": 0,
+
+		"job_description": "Google Software Engineers design and develop software solutions for a wide range of Google products, including Search, Ads, and Maps. They work in a collaborative environment, using agile development methodologies to build scalable and reliable software systems.",
+		"job_responsibility": "Design and develop software solutions for Google products using programming languages such as Java, Python, or C++.",
+		"educational_requirements": "Bachelor's degree in Computer Science, Electrical Engineering, or a related field.",
+		"experiences": "3+ years of experience developing software applications in a production environment.",
+		"phone": "01752 12 54 84",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "infogoogle@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "John Street 36, Rajshahi, Bangladesh",
+		"heading": "Job Details"
+	}
+]

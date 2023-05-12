@@ -1,0 +1,27 @@
+[
+	{
+		"id": 6,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/3128/3128279.png",
+		"job_title": "Android Apps Developer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Google Play Store LLC",
+		"job_type": "Remote",
+		"job_time": "Full Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Joshore, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "100K-150K",
+		"quantity": 0,
+
+		"job_description": "The Android Apps Developer is responsible for designing, developing, and maintaining mobile applications for the Android operating system. This role involves working closely with other developers, product managers, designers, and other stakeholders to ensure that mobile applications are built to meet user needs and business requirements.",
+		"job_responsibility": "Design and develop mobile applications for the Android operating system using Java or Kotlin programming languages.",
+		"educational_requirements": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+		"experiences": "2+ years of experience developing mobile applications for the Android operating system in a production environment.",
+		"phone": "01715 45 12 87",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "googleplay@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "Jefferson Avenue 52, Joshore, Bangladesh",
+		"heading": "Job Details"
+	}
+]

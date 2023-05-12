@@ -1,0 +1,27 @@
+[
+	{
+		"id": 3,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/5977/5977590.png",
+		"job_title": "Senior Product Designer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Netflix",
+		"job_type": "Onsite",
+		"job_time": "Full Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Rajshahi, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "90K-100K",
+		"quantity": 0,
+
+		"job_description": "The Senior Product Designer is responsible for leading the design of user interfaces and experiences for digital products. This role involves working closely with product managers, developers, and other stakeholders to ensure that products are designed to meet user needs and business requirements.",
+		"job_responsibility": "Lead the design of user interfaces and experiences for digital products, including web and mobile applications.",
+		"educational_requirements": "Bachelor's degree in Graphic Design, Interaction Design, or a related field.",
+		"experiences": "5+ years of experience designing digital products in a production environment.",
+		"phone": "01701 54 55 54",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "netflix@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "Jefferson Avenue 80, Rajshahi, Bangladesh",
+		"heading": "Job Details"
+	}
+]

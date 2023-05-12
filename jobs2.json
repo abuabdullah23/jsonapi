@@ -1,0 +1,28 @@
+[
+	{
+		"id": 2,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/1348/1348039.png",
+		"job_title": "Software Engineer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Tesla",
+		"job_type": "Remote",
+		"job_time": "Full Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Dhaka, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "80K-120K",
+		"quantity": 0,
+
+		"job_description": "The Software Engineer is responsible for designing, developing, and maintaining software applications and systems. This role involves working closely with product managers, designers, and other stakeholders to ensure that software applications meet the organization's requirements and are of high quality.",
+
+		"job_responsibility": "Design and develop software applications using programming languages such as Java, C++, Python, or JavaScript.",
+		"educational_requirements": "Bachelor's degree in Computer Science, Information Systems, or a related field.",
+		"experiences": "3+ years of experience developing software applications in a production environment.",
+		"phone": "01700 00 00 00",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "tesla@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "Broad Street 002, Dhaka, Bangladesh",
+		"heading": "Job Details"
+	}
+]

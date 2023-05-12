@@ -1,0 +1,27 @@
+[
+	{
+		"id": 5,
+		"company_logo": "https://cdn-icons-png.flaticon.com/128/3621/3621454.png",
+		"job_title": "Web Developer",
+		"job_title_icon": "https://cdn-icons-png.flaticon.com/128/1243/1243560.png",
+		"company_name": "Wordpress",
+		"job_type": "Remote",
+		"job_time": "Per Time",
+		"location_icon": "https://cdn-icons-png.flaticon.com/128/1008/1008001.png",
+		"location": "Khulna, Bangladesh",
+		"dollar_icon": "https://cdn-icons-png.flaticon.com/128/4512/4512507.png",
+		"salary": "100K-120K",
+		"quantity": 0,
+
+		"job_description": "The Web Developer is responsible for designing and developing websites and web applications for clients or for their own company. This role involves working closely with clients, project managers, designers, and other stakeholders to ensure that websites and applications are built to meet user needs and business requirements.",
+		"job_responsibility": "Develop websites and web applications using HTML, CSS, JavaScript, and other web technologies.",
+		"educational_requirements": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+		"experiences": "2+ years of experience developing websites and web applications in a production environment.",
+		"phone": "01700 00 00 00",
+		"phone_icon": "https://cdn-icons-png.flaticon.com/128/159/159832.png",
+		"email": "wordpress@gmail.com",
+		"email_icon": "https://cdn-icons-png.flaticon.com/128/646/646094.png",
+		"address": "Fairway Drive 20, Khulna, Bangladesh",
+		"heading": "Job Details"
+	}
+]
